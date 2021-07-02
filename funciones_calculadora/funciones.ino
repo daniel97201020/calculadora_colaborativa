@@ -20,6 +20,9 @@ long suma(int a, int b){
 }
 
 float division(int a, int b){
+  float c=0;
+  c=a/b:
+  return c;
 
 }
 
