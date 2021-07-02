@@ -31,5 +31,7 @@ long multi(int a, int b){
 }
 
 long resta(int a, int b){
-
+    long c = 0; 
+    c = a-b; 
+    return c; 
 }
