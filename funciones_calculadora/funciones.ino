@@ -27,7 +27,7 @@ float division(int a, int b){
 }
 
 long multi(int a, int b){
-  float c=0;
+  long c=0;
   c=a*b:
   return c;
 }
